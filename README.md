@@ -8,15 +8,15 @@ like -> [X]
 
 ## Tasks with Partner
 
-- [ ] Create a new branch <username/test-branch>
-- [ ] Create a new Markdown file inside Journal
-  - [ ] Create a header FOOD_LIST
-  - [ ] Create a smaller header TO_BUY
-  - [ ] Create a list of ingredients you need
-  - [ ] Create a link to a recipe
-  - [ ] Create a link to a photo of those ingredients
-  - [ ] Mark some text as italic
-  - [ ] Save the content
+- [X] Create a new branch <username/test-branch>
+- [X] Create a new Markdown file inside Journal
+  - [X] Create a header FOOD_LIST
+  - [X] Create a smaller header TO_BUY
+  - [X] Create a list of ingredients you need
+  - [X] Create a link to a recipe
+  - [X] Create a link to a photo of those ingredients
+  - [X] Mark some text as italic
+  - [X] Save the content
 - [ ] Create a new folder called Partner2 
   - [ ] and inside create another journal folder
   - [ ] and copy the file PARTNER_2.md inside the Partner2 folder
