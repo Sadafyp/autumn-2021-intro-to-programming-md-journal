@@ -15,4 +15,4 @@ sugar
 
 [Recipe](https://www.bbc.co.uk/food/recipes/apple_strudel_24124)
 
-![apple_strudel](apple_strudel_24124_16x9)
+![apple_strudel](apple_strudel_24124_16x9.JPG)
